@@ -79,7 +79,8 @@ body {
 .main-section figure, .main-section img {
     display: block;
     margin: auto;
-    width: 800px;
+    width: 30%;
+    height: 30%;
 }
 
 .footer {
